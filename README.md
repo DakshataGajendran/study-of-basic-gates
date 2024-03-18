@@ -80,15 +80,9 @@ xor(y6,a,b);
 xnor(y7,a,b);
 endmodule
 ```
- 
-**Logic symbol & Truthtable**
-
 
 **RTL realization Output:** 
 ![Screenshot 2024-03-15 141114](https://github.com/DakshataGajendran/study-of-basic-gates/assets/145742623/f2ca8373-a60b-4610-8663-9290f2e9f200)
-
-
-**RTL**
 
 **Result:**
 the code is executed successfully
